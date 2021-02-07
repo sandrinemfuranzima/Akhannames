@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/schedule.jpg) no-repeat center center/cover;
+}
+
+.ppp {
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: 3.5em;
+    line-height: 2.2;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    text-shadow: 1px 1px 2px white, 0 0 25px white, 0 0 5px white;
+    font-size: 4.8em;
+    text-align: left;
+}
+
+.ttt {
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: 1.8em;
+}
+
+.ggg {
+    color: rgb(35, 110, 54);
+    font-family: 'EB Garamond', serif;
+    font-size: 1.8em;
+}
+
+label {
+    font-size: 1.5em;
+    color: rgb(38, 88, 33);
+}
+
+footer {
+    color: white;
+    font-size: 1em;
+}
+
+form {
+    width: 60%;
+    /*border:2px solid white;*/
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+.btn btn-outline-info btn-lg {
+    color: white;
+}
+
+#output {
+    font-size: 1.8em;
+    border: 2px solid white;
+    text-shadow: 2px 2px 4px #000000;
+}
