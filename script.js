@@ -1,5 +1,5 @@
 var submission = function() {
-    var daysOfTheWeek = [
+    var daysOfTheWeek = [ 
         "Sunday", 
         "Monday",
         "Tuesday",
