@@ -1,6 +1,6 @@
 var submission = function() {
     var daysOfTheWeek = [
-        "Sunday",
+        "Sunday", 
         "Monday",
         "Tuesday",
         "Wednesday",
